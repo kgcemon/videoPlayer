@@ -1,4 +1,4 @@
-# api
+# VideoPlayer
 
 A new Flutter project.
 
